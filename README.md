@@ -1,16 +1,41 @@
-## Hi there 👋
+# 🐧 ZunariX
 
-<!--
-**ZunariX/ZunariX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> sorting bits, slicing time, sipping on tea.
 
-Here are some ideas to get you started:
+🐧 penguin enthusiast | 💾 low-level whisperer  
+📍 Linux native | 📊 data hoarder 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌌 About Me
+
+I enjoy:
+- Writing code that behaves  
+- Working with data structures and algorithms  
+
+---
+
+### 🧪 Interests
+
+| Area           | Description                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| 🛠 Systems     | Assembly, C, nix, Arch. Close to the metal, always precise.                 |
+| 🐧 Linux       | Arch and nix-based workflows.            |
+| 🔬 CS Theory   | Sorting, graphs, complexity.               |
+
+---
+
+### 📦 Favorite Tools
+
+`neovim` • `clang` • `kitty`  
+
+---
+
+### 🧊 A Quiet Signal
+
+Sometimes, the quietest penguin holds the sharpest truth.<br>
+Sometimes, the smoothest glide hides the fiercest fight.<br>
+Sometimes, a penguin holds a knife.
+
+
+<!-- recursive loop at line 42: zᵤₙₐᵣᵢx -->
