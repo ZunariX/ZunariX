@@ -35,7 +35,7 @@ I enjoy:
 
 Sometimes, the quietest penguin holds the sharpest truth.<br>
 Sometimes, the smoothest glide hides the fiercest fight.<br>
-Sometimes, a penguin holds a knife.
+Sometimes, penguin holds a knife.
 
 
 <!-- recursive loop at line 42: zᵤₙₐᵣᵢx -->
